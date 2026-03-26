@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "XOXZ",
   "base_artist": "IVE",
-  "createdAt": "2026-03-26T12:23:36.014220Z",
+  "createdAt": "2026-03-26T22:58:13.239891Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,15 @@
       "artist": "IVE",
       "has_synced": true,
       "path": "select/localdb_01_XOXZ_IVE.lrc",
+      "repo_name": "S5nsDT5oU90"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "XOXZ",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/localdb_02_XOXZ_IVE.lrc",
       "repo_name": "B1ShLiq3EVc"
     }
   ]
